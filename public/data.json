@@ -3,7 +3,7 @@
     {
       "date": "22/10/2022",
       "title": "ECOMMERCE-REACT",
-      "description": "This project was made with react, redux, firebase for authentication and storage of files and user credentials, you can log in, log out, upload profile picture image and contains protected path, it has filter functionality of articles by category , as well as a search engine by name, you can add to the shopping cart, delete the product, checkout the purchase",
+      "description": "Made with react, redux, firebase for authentication and storage of files and user credentials, you can log in, log out, upload profile picture image and contains protected path, filter of articles by category, search engine by name, shopping cart with all its functionalities",
       "url": "ecommerce-react-iota.vercel.app",
       "imgSrc": "ecommerce.png"
     },
