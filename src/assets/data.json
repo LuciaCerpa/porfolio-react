@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "date": "22/10/2022",
+      "title": "ECOMMERCE-REACT",
+      "description": "This project was made with react, redux, firebase for authentication and storage of files and user credentials, you can log in, log out, upload profile picture image and contains protected path, it has filter functionality of articles by category , as well as a search engine by name, you can add to the shopping cart, delete the product, checkout the purchase",
+      "url": "https://ecommerce-react-iota.vercel.app",
+      "imgSrc": "./ecommerce.png"
+    },
+
+    {
+      "date": "21/09/2022",
+      "title": "NIKE STORE-REACT",
+      "description": "This project was made with vite-react, it has shopping cart functionality from which the information is stored in the local storage",
+      "url": "nike-react-e8ntsvf1z-luciacerpa.vercel.app",
+      "imgSrc": "./nike-app.png"
+    },
+    {
+      "date": "18/08/2022",
+      "title": "XCrypto",
+      "description": "This project was made with react, using axios to make requests to a cryptocurrency api, in order to render the information, it has pagination and currency exchange functionality",
+      "url": "cripto-react-fothofbt3-luciacerpa.vercel.app",
+      "imgSrc": "./cripto.png"
+    },
+
+    {
+      "date": "24/07/2022",
+      "title": "ECOMMERCE-REACT-BOOSTRAP",
+      "description": "This project was made with react and bootstrap for the styles, axios was used for the api requests, it has protected routes functionality, shopping cart, you need to log in to access all the functionalities, product filtering by categories",
+      "url": "e-commerce-react-boostrap-o9iwlgp6d-luciacerpa.vercel.app",
+      "imgSrc": "./ecommerce2.png"
+    }    
+  ]
+}
